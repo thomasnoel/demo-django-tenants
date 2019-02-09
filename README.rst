@@ -9,10 +9,14 @@ Avant de se lancer
 ==================
 
 Il faut, en plus d'un ordinateur avec un clavier et un écran :
-- un accès à un PostgreSQL récent (> 9.1)
-- la possibilité de modifier ``/etc/hosts`` ou équivalent (DNS) pour créer des noms tels que ``client1.maboite.com``
-- ``git``, ``python``, ``virtualenv``... rien d'inhabituel
-- aucun courage c'est tout facile et sans risque
+
+* un accès à un PostgreSQL récent (> 9.1)
+
+* la possibilité de modifier ``/etc/hosts`` ou équivalent (DNS) pour créer des noms tels que ``client1.maboite.com``
+
+* ``git``, ``python``, ``virtualenv``... rien d'inhabituel
+
+* aucun courage c'est tout facile et sans risque
 
 Au niveau du ``/etc/hosts``, ajouter quelques noms qui seront ceux de vos clients::
 
