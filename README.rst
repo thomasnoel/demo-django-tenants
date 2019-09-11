@@ -1,7 +1,7 @@
 Une petite démo de django-tenant-schemas
 ========================================
 
-On va prendre une petite application Django très simple (cette du tutoriel) et la rendre multi-tenant, c'est-à-dire que de cette application, avec le code qui tourne une seule fois, on pourra créer plusieurs sites distincts.
+On va prendre une petite application Django très simple (celle du tutoriel) et la rendre multi-tenant, c'est-à-dire que de cette application, avec le code qui tourne une seule fois, on pourra créer plusieurs sites distincts.
 
 L'outil pour cela est django-tenant-schemas http://github.com/bernardopires/django-tenant-schemas (mais aller voir aussi https://github.com/tomturner/django-tenants)
 
